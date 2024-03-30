@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "TYSwN49riwJ60LO2pAl5C2heJTNRl9aN+a3bi9Z52S0=",
+  "Source": "grpcServer",
+  "BasePath": "_content/grpcServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "grpcServer\\wwwroot",
+      "Source": "grpcServer",
+      "ContentRoot": "C:\\Users\\d_zer\\RiderProjects\\gRPCFileStreaming\\grpcServer\\wwwroot\\",
+      "BasePath": "_content/grpcServer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\d_zer\\RiderProjects\\gRPCFileStreaming\\grpcServer\\wwwroot\\files\\bladeRunner.mp4",
+      "SourceId": "grpcServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\d_zer\\RiderProjects\\gRPCFileStreaming\\grpcServer\\wwwroot\\",
+      "BasePath": "_content/grpcServer",
+      "RelativePath": "files/bladeRunner.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\bladeRunner.mp4"
+    }
+  ]
+}

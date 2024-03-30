@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\d_zer\\RiderProjects\\gRPCFileStreaming\\grpcServer\\wwwroot\\files\\bladeRunner.mp4",
+      "PackagePath": "staticwebassets\\files\\bladeRunner.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.grpcServer.props",
+      "PackagePath": "build\\grpcServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.grpcServer.props",
+      "PackagePath": "buildMultiTargeting\\grpcServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.grpcServer.props",
+      "PackagePath": "buildTransitive\\grpcServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.grpcServer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
